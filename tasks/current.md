@@ -25,3 +25,23 @@
 ---
 
 *Updated: 2026-01-28*
+
+## 2026-01-28 - FieldTrain MVP Built! 🚀
+
+Big Mike vibe-coded FieldTrain in ~12 minutes.
+
+### Features Built:
+- Email OTP auth (passwordless)
+- Admin dashboard (desktop)
+- AI quiz generation from docs (OpenAI)
+- Mobile quiz experience
+- Points: 10/correct + 50 pass bonus
+- Leaderboard
+- Certificates
+- Progress tracking
+
+### Next:
+- Testing
+- Landing page
+- First users
+
